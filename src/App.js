@@ -15,7 +15,7 @@ class App extends React.Component {
 
     this.state = {
       currentUser: null
-    }
+    };
   }
 
 
@@ -34,12 +34,11 @@ componentDidMount() {
               ...snapShot.data()
             }
           });
-          console.log(this.state);
         });
           
-      } else {
+      } 
         this.setState({ currentUser: userAuth})
-      }
+      
     });
 }
 //closing the auth subscription
