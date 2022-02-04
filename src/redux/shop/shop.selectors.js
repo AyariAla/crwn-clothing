@@ -16,6 +16,13 @@ const COLLECTION_ID_MAP = {
 	mens: 5,
 };
 */
+
+export const selectCollectionsForPreview = createSelector(
+	[selectCollections],
+	(collections) => Object.keys(collections).map((key) => collections[key])
+);
+//get keys from collections and map over the array of keys to get the values of collections obj on that key, giving an array of items
+
 export const selectCollection = (collectionUrlParam) =>
 	createSelector(
 		[selectCollections],
