@@ -7,9 +7,9 @@ It includes a landing page listing various product categories and a shop page li
 
 > Implementation
 
-![HOME](./README_img/CRWN HOME.gif)
+![HOME](./README_img/CRWNHOME.gif)
 
-![CRWN](./README_img/CRWN.PNG)
+![CRWN](./README_img/crwn.PNG)
 
 ![SHOP](./README_img/CRWNSHOP.gif)
 
