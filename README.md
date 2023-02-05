@@ -10,6 +10,7 @@ It includes a landing page listing various product categories and a shop page li
 ![HOME](./README_img/CRWN HOME.gif)
 
 ![CRWN](./README_img/CRWN.PNG)
+
 ![SHOP](./README_img/CRWNSHOP.gif)
 
 ![CHECKOUT](./README_img/CRWNCHECKOUT.gif)
