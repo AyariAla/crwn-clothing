@@ -1,9 +1,8 @@
 # Crwn Clothing 
 
 This is a personnal project with React.js.
-This project was made using #ReactJS #Redux #StyledComponents #Firebase
+This project was made using #ReactJS #Redux #StyledComponents 
 
-It includes a landing page listing various product categories and a shop page listing products fetched from Firebase## NFT Listing on Goerli testnet.
 
 > Implementation
 
